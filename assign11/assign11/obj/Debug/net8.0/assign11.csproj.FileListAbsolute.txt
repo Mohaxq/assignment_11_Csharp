@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.AssemblyInfo.cs
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\assign11\assign11\bin\Debug\net8.0\assign11.exe
+C:\Users\ACER\source\repos\assign11\assign11\bin\Debug\net8.0\assign11.deps.json
+C:\Users\ACER\source\repos\assign11\assign11\bin\Debug\net8.0\assign11.runtimeconfig.json
+C:\Users\ACER\source\repos\assign11\assign11\bin\Debug\net8.0\assign11.dll
+C:\Users\ACER\source\repos\assign11\assign11\bin\Debug\net8.0\assign11.pdb
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.dll
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\refint\assign11.dll
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.pdb
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\assign11.genruntimeconfig.cache
+C:\Users\ACER\source\repos\assign11\assign11\obj\Debug\net8.0\ref\assign11.dll
